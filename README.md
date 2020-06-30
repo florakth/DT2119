@@ -1,5 +1,5 @@
-# DT2119
- Speech and speaker recogintion
+# DT2119 Speech and speaker recogintion
+ 
 Lab1: Feature extraction
 • compute MFCC features step-by-step
 • examine features
