@@ -1,6 +1,7 @@
 # DT2119 Speech and speaker recogintion
  
 Lab1: Feature extraction
+
 • compute MFCC features step-by-step
 • examine features
 • evaluate correlation between feature
@@ -20,6 +21,7 @@ Lab2: Hidden Markov Models with Gaussian Emissions
 •	implement the Baum-Welch algorithm to update the parameters of the emission probability distributions 
 
 Lab3: Phoneme Recognition with Deep Neural Network
+
 Train and test a phone recogniser based on digit speech material from the TIDIGIT database: 
 •	using predefined Gaussian-emission HMM phonetic models, create time aligned phonetic transcriptions of the TIDIGITS database, 
 •	define appropriate DNN models for phoneme recognition using Keras, 
