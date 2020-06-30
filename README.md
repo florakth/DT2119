@@ -23,9 +23,10 @@ Lab2: Hidden Markov Models with Gaussian Emissions
 Lab3: Phoneme Recognition with Deep Neural Network
 
 Train and test a phone recogniser based on digit speech material from the TIDIGIT database: 
-•	using predefined Gaussian-emission HMM phonetic models, create time aligned phonetic transcriptions of the TIDIGITS database, 
-•	define appropriate DNN models for phoneme recognition using Keras, 
-•	train and evaluate the DNN models on a frame-by-frame recognition score, 
+
+•	using predefined Gaussian-emission HMM phonetic models, create time aligned phonetic transcriptions of the TIDIGITS database
+•	define appropriate DNN models for phoneme recognition using Keras
+•	train and evaluate the DNN models on a frame-by-frame recognition score
 •	repeat the training by varying model parameters and input features 
 
 Project:	Automatic music genre classification using deep learning technologies
